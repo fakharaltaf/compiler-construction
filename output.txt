@@ -1,0 +1,10 @@
+float
+temp1
+temp1
+=
+12.5
+float
+x
+x
+=
+3.14159
